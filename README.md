@@ -1,3 +1,5 @@
+> look at readme.html for screenshots of each chapter
+
 ## Example files for the title:  
 	  
 # iPhone 3D Programming, by Philip Rideout
